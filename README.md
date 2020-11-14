@@ -1,4 +1,4 @@
-#**Clock**<br />
+# Clock 
 
 This is the my first and basic project on Github.<br/>
 **In this one have to set a time in the format HH:MM:SS and automatically a clock will start from that time.**<br/>
